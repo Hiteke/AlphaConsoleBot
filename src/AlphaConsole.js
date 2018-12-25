@@ -716,4 +716,4 @@ function numberWithSpaces(x) {
 
 
 
-client.login(require("./tokens.js").token);
+client.login(process.env.BOT_TOKEN);
