@@ -1,5 +1,5 @@
 module.exports = {
-    token: 'process.env.BOT_TOKEN', // Discord Bot Token
+    token: '', // Discord Bot Token
 
     // Database connection information
     dbHost: '',
